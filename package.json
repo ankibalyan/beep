@@ -1,0 +1,26 @@
+{
+  "name": "ank-beep",
+  "version": "1.1.1",
+  "description": "creates a bell alert",
+  "main": "index.js",
+  "bin": {
+    "beep": "cli.js"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "beep",
+    "ring",
+    "bell",
+    "alert",
+    "terminal",
+    "cli"
+  ],
+  "author": "Ankit Balyan <ankit.kr.balyan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "node-ask": "^1.0.1"
+  }
+}
