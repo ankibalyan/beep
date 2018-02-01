@@ -22,5 +22,9 @@
   "dependencies": {
     "colors": "^1.1.2",
     "node-ask": "^1.0.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/ankibalyan/beep/issues"
+  },
+  "files": ["index.js", "cli.js"]
 }
